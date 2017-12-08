@@ -107,7 +107,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 updateButtonText(view);
                 break;
 
-
             case R.id.bt_block3:
                 updateButtonText(view);
                 break;
